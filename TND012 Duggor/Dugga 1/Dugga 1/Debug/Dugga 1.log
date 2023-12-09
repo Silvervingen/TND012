@@ -1,4 +1,0 @@
-﻿  antta839.cpp
-C:\Users\anton\Documents\TND012 Duggor\Dugga 1\Dugga 1\antta839.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\anton\Documents\TND012 Duggor\Dugga 1\Dugga 1\antta839.cpp(17,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Dugga 1.vcxproj -> C:\Users\anton\Documents\TND012 Duggor\Dugga 1\Debug\Dugga 1.exe
